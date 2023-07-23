@@ -1,6 +1,6 @@
-# Predict Houses' Prices in Mexico City
+# Predicting House Prices in Mexico
 
-##### This Folder has 2 files; both of them make Web Scrapping and Linear Regression for the houses' prices, but one is an automized program that uses Selenium for .
+##### This Folder has 2 files; both of them make Web Scrapping and Linear Regression for the house prices, but one is an automized program that uses Selenium for .
 
 ## First Program
 
