@@ -24,7 +24,5 @@ This involves improving the visual quality of an image, such as increasing contr
 ## Object Detection and Recognition
 This is finding shapes or patterns in the image to extract information, after having done all the above techniques, this can be simplified or automated with machine learning.
 
-0–255, we said that the pixels closer to 0, are closer to black and the ones closer to 255, are closer to white. Accordingly, it would be sensible to increase the pixel values when we want to lighten a picture and to decrease the pixel values when we want to darken it
-
 ### And then what?
 Image Processing and Analysis has many more areas, models and treatments for obtaining information or modifying images, remember that this is only the basics; there is still something very important missing that is of great help for this area **Machine Learning and Artificial Intelligence**.
