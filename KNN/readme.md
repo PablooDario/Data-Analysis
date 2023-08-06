@@ -14,7 +14,9 @@ To calculate its nearest neighbors we must take the distance of the point we wan
 *So basically we must calculate the distance of the new point with all the points, know which are the K nearest points, know the classes of those K points, get the class that most repeats between those points and that is the class of the new point.*
 
 To represent this better we have the following image, where we have 6 points, 5 points already have class and one does not, so to give a class to this one we will obtain its 3 nearest neighbors the new point is the X, its nearest points are the ones connected by dotted lines.
+
 ![KNN Ejemplification](KNNExample.png)
+
 As we can see of its 3 neighbors 2 are yellow and 1 purple, so we will give it the class of 'yellow'.
 
 **Advantages**
