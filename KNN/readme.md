@@ -15,14 +15,14 @@ To calculate its nearest neighbors we must take the distance of the point we wan
 
 To represent this better we have the following image, where we have 6 points, 5 points already have class and one does not, so to give a class to this one we will obtain its 3 nearest neighbors the new point is the X, its nearest points are the ones connected by dotted lines.
 
-![KNN Ejemplification](KNNExample.png)
+![KNN Ejemplification](DataSets/KNNExample.png)
 
 As we can see of its 3 neighbors 2 are yellow and 1 purple, so we will give it the class of 'yellow'.
 
 **Advantages**
 - It is easy to implement.
 - The only hyperparameter it requires is the value of K.
-- I t adapts easily to new data.
+- It adapts easily to new data.
 
 **Disadvantages**
 - As the data grows, the algorithm becomes slower and heavier, as it has to perform more operations when buying all the new points.
