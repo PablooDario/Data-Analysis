@@ -15,5 +15,5 @@ This Folder has 2 files; both of them make Web Scrapping and Linear Regression f
 
  **Requisites for the Second Program**
 
-- Have the lastest version of Google Chrome 
-- have the google chrome driver downloaded
+- Have the lastest version of Google Chrome and Google Chrome Driver 
+- Have the google chrome driver downloaded
